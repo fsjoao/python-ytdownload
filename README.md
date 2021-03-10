@@ -1,0 +1,3 @@
+# python-ytdownload
+Just some projects i've made for fun, playlist download, audio and video.
+I used Pytube. Its finished actually, but need some details, like a progress bar on the playlist downloads, a menu to choose which one will want in the same program etc...
